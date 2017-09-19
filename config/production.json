@@ -1,0 +1,7 @@
+{
+	"host":"http://13.58.122.20",
+	"S3Accesskey":"AKIAJWBTHEXIZ4BI5GLA",
+	"S3Secret":"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",
+	"S3Bucket":"ladupitcher",
+	"dbURL":"laduuser:myladu@ds157631.mlab.com:57631/ladupitcher"
+}
